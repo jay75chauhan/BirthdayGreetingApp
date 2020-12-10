@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BirthdayGreeting</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="happy_birthday">Happy Birthday</string>
+
+    <string name="enter_the_birthday_boy_or_girl_name">enter the birthday boy or girl name</string>
+    <string name="create_magic">create magic</string>
+</resources>
