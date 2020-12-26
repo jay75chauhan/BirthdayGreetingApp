@@ -13,8 +13,6 @@ class BirthdayGreeting : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_birthday_greeting)
 
-
-
         val name = intent.getStringExtra(NAME_EXTRA)
         birthdayGreeting.text="Happy Birthday \n$name"
     }
